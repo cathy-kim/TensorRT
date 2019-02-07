@@ -1,9 +1,9 @@
-# TensorRT-
+# TensorRT
 TensorRT zoo 
 
 
 1. SSD-VGG16
-- TensorRT 5.0 : Done 
+- TensorRT 3.0 : https://github.com/chenzhi1992/TensorRT-SSD 
 2. SSD-MobileNet 
 - TensorRT 4.0(class 4) : https://github.com/Ghustwb/MobileNet-SSD-TensorRT 
 3. SSDLite-MobileNet V2  
