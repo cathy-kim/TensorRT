@@ -12,3 +12,7 @@ TensorRT zoo
 5. YOLOv3
 6. TinyYOLO 
 7. Pelee 
+
+8. Openpose
+- Openpose plus : https://github.com/tensorlayer/openpose-plus 
+- Openpose-trt-opt : https://github.com/haanjack/openpose-trt-optimize   
