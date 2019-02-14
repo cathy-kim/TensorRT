@@ -17,3 +17,9 @@ C++ API: https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/c_api/_nv_infer_p
 - Openpose plus : https://github.com/tensorlayer/openpose-plus 
 - Openpose-trt-opt : https://github.com/haanjack/openpose-trt-optimize   
 - slide: https://www.slideshare.net/deview/232-dl-inference-optimization-using-tensor-rt-1-119162975 
+
+##NVIDIA PROFILER 
+- slide: https://imsc.uni-graz.at/haasegu/Lectures/HPC-II/SS15/Siegmann/nvvp_memcheck.pdf
+- nvidia slide: https://www.olcf.ornl.gov/wp-content/uploads/2018/02/SummitDev_NVIDIA-Profilers.pdf
+- tuitorial: https://docs.nvidia.com/cuda/profiler-users-guide/index.html#nvprof-command-line-options-print 
+- nvidia blog: https://devblogs.nvidia.com/cuda-pro-tip-nvprof-your-handy-universal-gpu-profiler/
