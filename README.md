@@ -27,4 +27,4 @@ C++ API: https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/c_api/_nv_infer_p
 ## Inference 
 - Best Practice: https://docs.nvidia.com/deeplearning/sdk/tensorrt-best-practices/index.html 
 - Code: https://github.com/NVIDIA/tensorrt-laboratory/tree/master/examples/00_TensorRT 
-- 
+- Inference Time: https://arleyzhang.github.io/articles/fda11be6/ 
