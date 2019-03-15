@@ -11,7 +11,7 @@ C++ API: https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/c_api/_nv_infer_p
 4. YOLOv2 
 5. YOLOv3
 6. TinyYOLO 
-7. Pelee 
+7. Pelee : https://github.com/ginn24/Pelee-TensorRT
 
 8. Openpose
 - Openpose plus : https://github.com/tensorlayer/openpose-plus 
